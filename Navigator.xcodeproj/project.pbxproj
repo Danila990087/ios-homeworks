@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		04997E96307263F6007CA87C /* Exceptions for "MySecondApp" folder in "Navigator" target */ = {
+		04997E96307263F6007CA87C /* Exceptions for "Navigator" folder in "Navigator" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,12 +21,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		04997E86307263F5007CA87C /* MySecondApp */ = {
+		04997E86307263F5007CA87C /* Navigator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				04997E96307263F6007CA87C /* Exceptions for "MySecondApp" folder in "Navigator" target */,
+				04997E96307263F6007CA87C /* Exceptions for "Navigator" folder in "Navigator" target */,
 			);
-			path = MySecondApp;
+			path = Navigator;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		04997E7B307263F5007CA87C = {
 			isa = PBXGroup;
 			children = (
-				04997E86307263F5007CA87C /* MySecondApp */,
+				04997E86307263F5007CA87C /* Navigator */,
 				04997E85307263F5007CA87C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				04997E86307263F5007CA87C /* MySecondApp */,
+				04997E86307263F5007CA87C /* Navigator */,
 			);
 			name = Navigator;
 			packageProductDependencies = (
